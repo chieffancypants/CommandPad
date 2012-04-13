@@ -1,0 +1,3 @@
+I had a Saitek "PC Gamer's Keyboard" laying around that came with a little Command Pad for creating macros.  Unfortunately, software for creating those macros is only available for windows.
+
+CommandPad is a python application that recieves events from /dev/input/events* and allows you to trigger a different python script for each button on the command pad.
